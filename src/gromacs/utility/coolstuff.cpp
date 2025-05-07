@@ -336,6 +336,8 @@ std::string getCoolQuote()
         {"Bring it around town -Spongebob"},
         {"We're not cavemen! We have technology -Patrick Star right before smashing a cpomuter"},
         {"I order the food, you cook the food, then the customer gets the food. We do that for 40 years and then we die -Squidward Tentacles"},
+        {"I can't stand the way you fucking laugh! Never let me hear your fucking horrible laugh again. -John Lennon"},
+        {"If an individual wants to be a leader and isn't controversial, that means he never stood for anything. -Richard Nixon"},
         { "Your Proposal is Accepted", "Men In Black" },
         { "Don't Grumble, Give a Whistle !", "Monty Python" },
         { "Stop Drinking My Beer !", "The Amps" },
