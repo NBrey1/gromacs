@@ -183,6 +183,7 @@ std::string getCoolQuote()
         {"Yah I couldn't believe it myself, luckily my dad was an alumnus and pulled some strings. -Frito (On Costco Law School"},
         {"We did, however have to come to an arrangement with her pimp. A gentleman who goes by the name Upgrayedd. Which he spells thusly, with two D's, as he says, 'for a double dose of this pimping'" - General Collins},
         {"I'm going to mistrial my foot up your ass if you don't shut up! - Frito"},
+        {"B!+*# BETTER HAVE MY MONEY - Upgrayedd"},
         {"Oh, that's easy. You go down by the museum and stuff... It's like- it's, like, by the museum... Sorta by... Actually, not really. More like on the street, you go, um... Wait, let me start over. Okay, you know where the time machine is? - Frito"},
         {"We're gonna take you back, to the year 1939 when Charlie Chaplin and his nazi regime enslaved Europe and tried to take over the world... - The Time Masheen"},
         {".But then an even greater force emerged, the U.N and the U.N. un-nazied the world - forever. - The Time Masheen"},
