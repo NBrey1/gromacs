@@ -135,8 +135,6 @@ std::string getCoolQuote()
     };
 
     const Quote quoteArray[] = {
-        { "If You Want Something Done You Have to Do It Yourself", "Highlander II" },
-        { "I Live the Life They Wish They Did", "Tricky" },
         {"Either I will find a way or I will make one","Hannibal Barca"},
         {"Stop sending people to kill me! We've already captured five of them, one of them with a bomb and another with a rifle... If you don't stop sending killers, I'll send a very fast working one to Moscow and I certainly won't have to send another.-Josip Broz Tito"},
         {"There is no good in anything until it is finished. ― Genghis Khan"},
