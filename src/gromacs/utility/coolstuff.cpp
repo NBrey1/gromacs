@@ -276,7 +276,7 @@ std::string getCoolQuote()
         {"America is the oldest and greatest country on Earth -Coach Letterman"},
         {"We stopped caring what the british think about elections in 1776 -Coach Letterman"},
         {"I'm a 1%er raking in $35.01/hr plus bennies -Coach Letterman"},
-        {"Wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee" -R2D2},
+        {"Wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee -R2D2"},
         {"FINLAND! -Patrick Star"},
         {"Wumbology, the study of Wumbo. It's First grade! -Patrick Star"},
         {"What am I? ..Stupid?.. No I'm Texas..What's the difference? -Spongebob, Patrick Star"},
