@@ -179,7 +179,7 @@ std::string getCoolQuote()
         {" It started off boring and slow with Not Sure trying to bullshit everyone with a bunch of smart talk: 'Blah blah blah. You gotta believe me!' That part of the trial sucked! But then the Chief J. just went off. He said, 'Man, whatever! The guy's guilty as shit! We all know that.' And he sentenced his ass to one night of rehabilitation. - Vermicha Davis"},
         {"Yah I know this place pretty good, I went to law school here. - Frito (About Costco)"},
         {"Yah I couldn't believe it myself, luckily my dad was an alumnus and pulled some strings. -Frito (On Costco Law School"},
-        {"We did, however have to come to an arrangement with her pimp. A gentleman who goes by the name Upgrayedd. Which he spells thusly, with two D's, as he says, 'for a double dose of this pimping'" - General Collins},
+        {"We did, however have to come to an arrangement with her pimp. A gentleman who goes by the name Upgrayedd. Which he spells thusly, with two D's, as he says, 'for a double dose of this pimping' - General Collins"},
         {"I'm going to mistrial my foot up your ass if you don't shut up! - Frito"},
         {"B!+*# BETTER HAVE MY MONEY - Upgrayedd"},
         {"Oh, that's easy. You go down by the museum and stuff... It's like- it's, like, by the museum... Sorta by... Actually, not really. More like on the street, you go, um... Wait, let me start over. Okay, you know where the time machine is? - Frito"},
